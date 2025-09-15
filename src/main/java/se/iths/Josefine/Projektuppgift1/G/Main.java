@@ -1,4 +1,4 @@
-package se.iths.Josefine.Projektuppgift1;
+package se.iths.Josefine.Projektuppgift1.G;
 
 public class Main {
     public static void main(String[] args) {
