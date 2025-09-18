@@ -3,12 +3,11 @@ package se.iths.Josefine.Projektuppgift1.VG;
 public class ArrayExercise {
     private int[] intarray = {1, 3, 10,20,8};
 
-    public String HelloWorld(String HelloWorld) {
+    public void helloWorld(String HelloWorld) {
         String[] helloWorld = {"Hello", "World", "!"};
         for(String s: helloWorld) {
             System.out.println(s);
         }
-        return "";
     }
 
     public int maxArray() {

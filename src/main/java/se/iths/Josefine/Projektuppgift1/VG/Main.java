@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         //HelloWorld uppgift
         ArrayExercise helloWorld = new ArrayExercise();
-        System.out.println(helloWorld.HelloWorld(""));
+        System.out.println(helloWorld.helloWorld(""));
 
         //Uppgift för VG
         //maxArray
@@ -13,8 +13,8 @@ public class Main {
         System.out.println();
 
         //Double parameter
-        ArrayExercise Double = new ArrayExercise();
-        System.out.println("Det största decimaltalet är: " + Double.maxDouble(1.6, 4.8));
+        ArrayExercise double1 = new ArrayExercise();
+        System.out.println("Det största decimaltalet är: " + double1.maxDouble(1.6, 4.8));
         System.out.println();
 
         //String parametrar
